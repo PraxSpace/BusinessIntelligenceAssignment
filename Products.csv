@@ -1,0 +1,21 @@
+id,ProductName,ProductType,UnitPrice
+100,Bluefin tuna,Endangered Fish,13.17
+101,Wild Atlantic salmon,Endangered Fish,8.93
+102,Chinook salmon,Endangered Fish,11.25
+103,Coho salmon,Endangered Fish,13.03
+104,Sockeye salmon,Endangered Fish,10.75
+105,Steelhead trout,Endangered Fish,14.4
+106,Carp,Fatty Fish,13.28
+107,Chilean Sea Bass,Fatty Fish,8.47
+108,Salmon,Fatty Fish,9.18
+109,Shad,Fatty Fish,8.07
+110,Bass,Lean Fish,13.61
+111,Trout,Lean Fish,7.53
+112,Red Snapper,Lean Fish,14.72
+113,Tuna,Lean Fish,10.06
+114,Cod,Lean Fish,14.31
+115,Halibut,Lean Fish,8.78
+116,Flounder,Lean Fish,8.02
+117,Pike,Lean Fish,15.11
+118,Catfish,Lean Fish,14.61
+119,Perch,Lean Fish,12.53                                        
